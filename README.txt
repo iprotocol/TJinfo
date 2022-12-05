@@ -3,22 +3,24 @@ last updated: 3/17/2022
 		-About Me updated
 		-LF make About me text and photos side by side rather than stack
 		-fa-chalkboard-teacher broken on Google Chrome
-		-fas fa-chalkboard teacher used as a temporary fix (made image smaller)
-	/* BACKGROUND changed from static to moving background using code from template "Aerial" by @ajlkn(from HTML5 UP)
-	/* Body BUTTONS changed to new destinations (2 pages and 3 links)
-	/* Contact ICONS changed and modified to include links to my other websites
-		-Discovered adding "fa" into a class changed the font
-	/* TOOLTIPS Added to various components using code from W3schools
-		-whitespace: no wrap added to fix text wrap
-		-whitespace: no wrap removed and fixed widths set after a better text width set
-		-LF ways to have different tooltips have different formats
-	/* Could not get GOOGLE TRANSLATE code to work so built a BUTTON to serve same purpose
-		-LF updated destination code
-	/* Split ABOUT ME into columns and added photos / GIFs
-	/* Moved Tooltip code to main.css
-	/* Added skills collection under ABOUT ME using columns
-	/* Installed spacers (use code "&nbsp")
-	/* Added FLIPPED CLASSROOM flip animation
+		-fas fa-chalkboard teacher used as a temporary fix (made image smaller) */
+	/* BACKGROUND changed from static to moving background using code from template "Aerial" by @ajlkn(from HTML5 UP) */
+	/* Body BUTTONS changed to new destinations (2 pages and 3 links) */
+	/* Contact ICONS changed and modified to include links to my other websites */
+		-Discovered adding "fa" into a class changed the font */
+	/* TOOLTIPS Added to various components using code from W3schools */
+		-whitespace: no wrap added to fix text wrap */
+		-whitespace: no wrap removed and fixed widths set after a better text width set */
+		-LF ways to have different tooltips have different formats */
+	/* Could not get GOOGLE TRANSLATE code to work so built a BUTTON to serve same purpose */
+		-LF updated destination code */
+	/* Split ABOUT ME into columns and added photos / GIFs */
+	/* Moved Tooltip code to main.css */
+	/* Added skills collection under ABOUT ME using columns */
+	/* Installed spacers (use code "&nbsp") */
+	/* Added FLIPPED CLASSROOM flip animation */
+	/* Form built using GetForm.io. It now emails me whenever it is completed. */
+	/* Scaling for mobile and Tablet adjusted to fit better (still breaks when using the translated page) */
 
 Future SKILLS links:
 Excel: https://medium.com/career-guide/5-important-benefits-of-excel-for-students-27bd9bd6eacd
@@ -29,11 +31,12 @@ OBS: https://online-ed-tech.yale.edu/using-obs-zoom-teaching
 
 
 Pending Projects:
-	/* LF Condense all CSS into main.css (just have .button left)
-	/* LF Learn to read the JS
-	/* LF fix fa-chalkboard-teacher properly
-	/* LF updated destination code for Translate button
-	/* LF tooltips + links for SKILLS page that doesn't get cutoff by columns
+	/* LF Condense all CSS into main.css (just have .button left) */
+	/* LF Learn to read the JS */
+	/* LF fix for fa-chalkboard-teacher to properly show at correct size */
+	/* LF fix for Google Translate button (to replace current button)*/
+	/* LF tooltips + links for SKILLS page that don't get cutoff by columns */
+	/* Begin templating teaching website but with a different wrapper dimensions */
 
 Credits:
 
